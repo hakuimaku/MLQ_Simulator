@@ -390,7 +390,7 @@
             // 
             lblFCFSQueue.AutoSize = true;
             lblFCFSQueue.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            lblFCFSQueue.Location = new Point(434, 203);
+            lblFCFSQueue.Location = new Point(452, 203);
             lblFCFSQueue.Margin = new Padding(4, 0, 4, 0);
             lblFCFSQueue.Name = "lblFCFSQueue";
             lblFCFSQueue.Size = new Size(110, 18);
