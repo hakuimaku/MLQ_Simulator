@@ -8,11 +8,12 @@ Lớp học phần: 15DHBM04
 Đề tài: Phát triển công cụ lập lịch đa mức (Multilevel Queue Scheduling)
 
 ## NHẬT KÝ LÀM VIỆC CỦA NHÓM
-| MSSV | Họ Tên | Công Việc | % Hoàn thành |
-|------|------------|-----------|
+| MSSV | Họ Tên | Công việc | % Hoàn thành
+|------|------------|-----------|--------|
 | 2001240499 | Võ Châu Bảo Tiến (nhóm trưởng) | Xây dựng nền tảng chương trình trên console, tạo cấu trúc chương trình. | 100% |
 | 2001240045 | Huỳnh Thanh Bình | Hoàn thiện chương trình trên winform, vẽ biểu đồ gantt minh họa. (Ghi chú: Hoàn thành công việc không đúng thời hạn được phân công) | 80% |
 | 2001240553 | Đỗ Ngọc Việt | Viết tiểu luận Word, làm bản trình bày trên PowerPoint lý thuyết của đề tài. | 100% |
+
 
 
 ## Mục tiêu
