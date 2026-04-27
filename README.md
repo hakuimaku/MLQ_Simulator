@@ -2,6 +2,19 @@
 
 Ứng dụng mô phỏng **Multilevel Queue Scheduling** được xây dựng bằng **C# WinForms** trên **.NET 10**.
 
+Đây là bài tập nhóm học phần Hệ điều hành
+Giảng viên hướng dẫn: Hồ Hải Quân
+Lớp học phần: 15DHBM04
+Đề tài: Phát triển công cụ lập lịch đa mức (Multilevel Queue Scheduling)
+
+## NHẬT KÝ LÀM VIỆC CỦA NHÓM
+| MSSV | Họ Tên | Công Việc | % Hoàn thành |
+|------|------------|-----------|
+| 2001240499 | Võ Châu Bảo Tiến (nhóm trưởng) | Xây dựng nền tảng chương trình trên console, tạo cấu trúc chương trình. | 100% |
+| 2001240045 | Huỳnh Thanh Bình | Hoàn thiện chương trình trên winform, vẽ biểu đồ gantt minh họa. (Ghi chú: Hoàn thành công việc không đúng thời hạn được phân công) | 80% |
+| 2001240553 | Đỗ Ngọc Việt | Viết tiểu luận Word, làm bản trình bày trên PowerPoint lý thuyết của đề tài. | 100% |
+
+
 ## Mục tiêu
 
 Project này mô phỏng cách hệ điều hành phân phối CPU cho nhiều nhóm tiến trình theo mô hình **đa hàng đợi ưu tiên**:
