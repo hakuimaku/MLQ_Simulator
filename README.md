@@ -2,10 +2,10 @@
 
 Ứng dụng mô phỏng **Multilevel Queue Scheduling** được xây dựng bằng **C# WinForms** trên **.NET 10**.
 
-Đây là bài tập nhóm học phần Hệ điều hành
-Giảng viên hướng dẫn: Hồ Hải Quân
-Lớp học phần: 15DHBM04
-Đề tài: Phát triển công cụ lập lịch đa mức (Multilevel Queue Scheduling)
+- Đây là bài tập nhóm học phần Hệ điều hành
+- Giảng viên hướng dẫn: Hồ Hải Quân
+- Lớp học phần: 15DHBM04
+- Đề tài: Phát triển công cụ lập lịch đa mức (Multilevel Queue Scheduling)
 
 ## NHẬT KÝ LÀM VIỆC CỦA NHÓM
 | MSSV | Họ Tên | Công việc | % Hoàn thành
