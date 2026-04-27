@@ -357,7 +357,7 @@ Nếu muốn, có thể mở rộng thêm:
   - waiting time,
   - turnaround time,
   - response time.Project tập trung vào mô phỏng thuật toán và trực quan hóa, chưa có cơ chế aging.
-9) File cốt lõi
+### File cốt lõi
 `Scheduler.cs`: logic MLQ, preemption, metrics, Gantt history
 `Process.cs`: mô hình dữ liệu tiến trình
 `GanttEntry.cs`: dữ liệu timeline
